@@ -1,1 +1,1 @@
-# ml-algorithms
+# Basic Data Analysis & Machine Learning Techniques
