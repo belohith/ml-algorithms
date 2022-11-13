@@ -1,7 +1,7 @@
 # Basic Data Analysis & Machine Learning Techniques
 
 Different machine learning algorithms demonstrated with the given input dataset file.
-The file is included. You can also fin it here https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
+The file is included. You can also find it here: https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
 
 Methods included:
 
